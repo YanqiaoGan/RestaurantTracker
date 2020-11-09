@@ -1,0 +1,48 @@
+body { 
+  font-family: "Chivo", sans-serif; 
+  background: url(images/result4.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+h1{
+	margin-top:40px;
+	color:white;
+}
+
+.form-btn{
+	margin-left:5px;
+}
+
+.row-bd{
+	padding-top: 10px;
+	border: 1px solid gray;
+}
+
+.row-res:hover{
+	background-color:rgba(0,0,0,0.3);
+}
+
+.title{
+	padding-bottom: 10px;
+}
+
+.main-title{
+	text-align: center;
+}
+
+.container{
+	color: #753417;
+	border:1px solid gray;
+	margin-top:20px;
+	box-shadow:0 15px 18px 0 rgba(0,0,0,.4),0 20px 50px 0 rgba(0,0,0,.3);
+	background-color: rgba(255,255,255,0.7);
+	text-align: center;
+}
+
+.btn-5{
+	margin-bottom: 5px;
+}

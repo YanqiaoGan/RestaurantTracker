@@ -1,0 +1,38 @@
+.navbar{
+	background-color: #99582a;
+	font-family: "Playfair Display", serif;
+	font-weight: 700;
+	font-style: italic;
+	margin-bottom: 10px;
+}
+
+.navbar-brand{
+	font-family: "Chivo", sans-serif;
+	font-weight: 400;
+}
+
+.footer{
+	margin-top: 10px;
+	padding-top:10px;
+	background-color:#26272b;
+    font-size:15px;
+    line-height:24px;
+    color:#737373;
+}
+
+
+.footer hr{
+  border-top-color:#bbb;
+  opacity:0.5
+}
+
+.footer h6{
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  letter-spacing:2px;
+}
+
+.copyright{
+	margin:0;
+}
